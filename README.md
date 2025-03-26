@@ -1,5 +1,5 @@
 # Censura de Tor Browser en Entorno Empresarial
-![Descripción de la imagen](https://github.com/Manuel67623934/Tor-Browser-Censorship/blob/main/Blank%20diagram%20-%20EDL%26RMT.png)
+![Nota. Elaboración propia](https://github.com/Manuel67623934/Tor-Browser-Censorship/blob/main/Blank%20diagram%20-%20EDL%26RMT.png)
 
 ## Justificación del Proyecto
 
